@@ -1,7 +1,7 @@
 {
-  "name": "barebones-boilerplate",
+  "name": "zucchini-test-project",
   "version": "0.0.1",
-  "description": "A barebones boilerplate",
+  "description": "A zucchini-test-project",
   "main": "index.js",
   "scripts": {
     "start": "npm run watch & npm run browser:sync",
