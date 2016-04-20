@@ -1,2 +1,2 @@
-# Barebones Boilerplate
-A Boilerplate without any bloat using browserify and babel.
+# Zucchini test project
+A project to test out Zucchini stuff.
